@@ -6,5 +6,6 @@ public class First{
         System.out.println("Hello world!");
         System.out.println(new Date());
         System.out.println("test");
+        System.out.println("git");
     }
 }
