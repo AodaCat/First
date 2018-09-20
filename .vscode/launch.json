@@ -6,6 +6,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - First",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "First",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch)-Hello",
             "request": "launch",
             "cwd": "${workspaceFolder}",
